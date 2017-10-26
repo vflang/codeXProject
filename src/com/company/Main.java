@@ -7,7 +7,7 @@ import java.util.Arrays;
  * Created by Veronica Lang on 10/25/2017.
  * randomly pick a value in an array referenced from:
  * https://stackoverflow.com/questions/8065532/how-to-randomly-pick-an-element-from-an-array
- partner is Kiara; first commit? change? is my coding
+ partner is Kiara; first commit? change? is my coding //which my code is noticable b/c it's Broken ;_)
  */
 public class GuessMyNum {
     public static String dogBreeds[] = {"Shiba Inu", "Corgi", "Samoyed", "Golden Retriever", "Chow chows", "Pug",
